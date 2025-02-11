@@ -38,3 +38,5 @@ For forecasting, I used two approaches: **VARMAX**, which helps identify relatio
 - Evaluation metrics using RMSE, MAE, MAPE.  
 - Performance comparison of VARMAX vs. LSTM.  
 - Visualization of predictions vs. actual values.  
+
+**Presentation/Explanation Link:** [Access Here](https://www.figma.com/deck/NovjwV2OMtTReC520o7MMo/Sales-Forecasting-using-VARMAX?node-id=0-1&t=EsDVIrVvQCqDBQ1Q-1)
